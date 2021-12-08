@@ -1,2 +1,2 @@
-# ValuEd
-ValuEd: a decentralised service market for students
+# ValuEd: A Blockchain-based Trading Platform to Encourage Student Engagement in Higher Education
+
